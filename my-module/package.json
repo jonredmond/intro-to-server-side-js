@@ -1,0 +1,19 @@
+{
+  "name": "my-module",
+  "version": "1.0.0",
+  "description": "My first npm module :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"does not compute\""
+  },
+  "keywords": [
+    "jon",
+    "is",
+    "great"
+  ],
+  "author": "Jon Redmond, jredmond@sapient.com",
+  "license": "ISC",
+  "dependencies": {
+    "upper-case": "^1.1.3"
+  }
+}
